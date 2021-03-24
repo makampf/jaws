@@ -2,6 +2,12 @@
 
 Phil's Simple Web Scraping Client
 
+## Requirements
+
+```sh
+pip install -r requirements.txt
+```
+
 ## Usage
 
 main.py [flags]
