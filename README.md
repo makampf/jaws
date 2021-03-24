@@ -1,5 +1,7 @@
 # JAWS - Just Another (simple) Web Scraper (in Python)
 
+Phil's Simple Web Scraping Client
+
 ## Usage
 
 main.py [flags]
