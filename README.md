@@ -1,6 +1,8 @@
 # JAWS - Just Another (simple) Web Scraper (in Python)
 
-USAGE: main.py [flags]
+## Usage
+
+main.py [flags]
 flags:
 
 main.py:
@@ -10,3 +12,13 @@ main.py:
   -u,--url: URL of the website to scrape
 
 Try --helpfull to get a list of all flags.
+
+## Example .env file
+
+```env
+# .env
+LOG_LEVEL=DEBUG
+WEBSITE_URL=http://wetter.com
+ELEMENT_ID=cmp-btn-accept
+POLL_INTERVAL=5
+```
