@@ -140,3 +140,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Bazel
+bazel-bin
+bazel-jaws
+bazel-out
+bazel-testlogs

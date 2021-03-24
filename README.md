@@ -24,3 +24,19 @@ WEBSITE_URL=http://wetter.com
 ELEMENT_ID=cmp-btn-accept
 POLL_INTERVAL=5
 ```
+
+## Build
+
+### Build with Bazel
+
+```sh
+bazel build :jaws
+```
+
+### Execute
+
+#### Windows
+
+```cmd
+jaws.exe --helpshort
+```
