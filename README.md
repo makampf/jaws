@@ -10,7 +10,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-main.py [flags]
+```sh
+python main.py [flags]
+```
+
 flags:
 
 main.py:
